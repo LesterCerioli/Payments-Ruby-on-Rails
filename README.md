@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Payment Microservice- Ruby-On-Rails
 
-Things you may want to cover:
+Brief project description goes here.
 
-* Ruby version
+## Docker
 
-* System dependencies
+This project can be run as a Docker container. Make sure you have Docker installed on your machine.
 
-* Configuration
+### Pull the Docker Image
 
-* Database creation
+You can pull the Docker image from Docker Hub using the following command:
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```bash
+docker pull ltservices/paymentmsc:tagname
